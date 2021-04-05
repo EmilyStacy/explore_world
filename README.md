@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is refactored from the previous exploreworld project. One API service is fixed. Two more services are wip.
 
 ## Available Scripts
 
